@@ -34,6 +34,12 @@ Aquí están las herramientas y tecnologías con las que trabajo:
 
 ---
 
+### 📊 Mis Estadísticas de GitHub
+
+[![Valeria Solis GitHub Stats](https://github-readme-stats.vercel.app/api?username=val-solis16&show_icons=true&theme=dark&hide_border=true)](https://github.com/val-solis16)
+
+---
+
 ### 📬 Conéctate Conmigo
 
 * **LinkedIn:** [www.linkedin.com/in/valeria-solis-monge-411514325]
