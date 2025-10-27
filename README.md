@@ -27,6 +27,8 @@ Aquí están las herramientas y tecnologías con las que trabajo:
 
 ### 🚀 Mis Proyectos Recientes
 
+* **[Dashboard de Población Global](https://github.com/val-solis16/PowerBI-Dashboard-Poblacion)** 
+    * Visualización global de población, esperanza de vida y mortalidad infantil con Power BI.
 * **[Análisis de Ventas de Café](https://github.com/val-solis16/analisis-ventas-cafe)** 
     * Predicción del monto de ventas de un producto (café), por medio de un modelo lineal.
 * **[Práctica de SQL: Base de Datos DVDRental](https://github.com/val-solis16/dvd-rental-sql)** 
