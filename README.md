@@ -1,12 +1,25 @@
 # ¡Hola! 👋 Soy Valeria Solís
 
-### Bióloga y Analista de Datos 📊
+Soy bióloga y analista de datos con interés en bioinformática, machine learning y ciberseguridad.
 
-Soy una bióloga apasionada por transformar datos complejos en insights accionables. Combino mi pensamiento crítico y analítico con habilidades en análisis de datos para descubrir patrones y contribuir a la toma de decisiones estratégicas.
+Me apasiona utilizar herramientas computacionales para analizar datos, identificar patrones y resolver problemas en contextos científicos y tecnológicos.
+
+Actualmente continúo fortaleciendo mis habilidades en Python, SQL, Machine Learning y Ciberseguridad mediante proyectos y formación continua.
 
 ---
 
 ### 🛠️ Mis Habilidades Técnicas
+
+## 🔐 Aprendiendo Ciberseguridad
+
+Actualmente participo en el programa Mujer Digital, donde estoy fortaleciendo conocimientos en:
+
+- Fundamentos de Ciberseguridad
+- Seguridad de Redes
+- Gestión de Riesgos
+- Buenas Prácticas de Seguridad
+- Análisis de Vulnerabilidades
+- Seguridad en Sistemas y Datos
 
 Aquí están las herramientas y tecnologías con las que trabajo:
 
