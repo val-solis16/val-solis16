@@ -1,63 +1,73 @@
-# ¡Hola! 👋 Soy Valeria Solís
+# 👋 Hi, I'm Valeria Solís
 
-Soy bióloga y analista de datos con interés en bioinformática, machine learning y ciberseguridad.
+Biologist and Data Analyst with a growing interest in Bioinformatics, Machine Learning, and Cybersecurity.
 
-Me apasiona utilizar herramientas computacionales para analizar datos, identificar patrones y resolver problemas en contextos científicos y tecnológicos.
+I enjoy combining biological sciences and data analytics to extract meaningful insights from complex datasets. My current projects focus on DNA sequence analysis, bioinformatics workflows, machine learning applications, and data visualization.
 
-Actualmente continúo fortaleciendo mis habilidades en Python, SQL, Machine Learning y Ciberseguridad mediante proyectos y formación continua.
+Currently expanding my skills through personal projects, continuous learning, and hands-on experience with Python, SQL, Bioinformatics, and Cybersecurity.
 
----
 
-### 🛠️ Mis Habilidades Técnicas
+### 🛠️ Technical Skills
 
-## 🔐 Aprendiendo Ciberseguridad
-
-Actualmente participo en el programa Mujer Digital, donde estoy fortaleciendo conocimientos en:
-
-- Fundamentos de Ciberseguridad
-- Seguridad de Redes
-- Gestión de Riesgos
-- Buenas Prácticas de Seguridad
-- Análisis de Vulnerabilidades
-- Seguridad en Sistemas y Datos
-
-Aquí están las herramientas y tecnologías con las que trabajo:
+## 🧬 Bioinformatics & Data Science
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![Biopython](https://img.shields.io/badge/Biopython-Bioinformatics-green?style=for-the-badge) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3B7D5C?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![AWS Cloud](https://img.shields.io/badge/AWS%20Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## 📊 Data Analytics
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white)
----
 
-### 🚀 Mis Proyectos Recientes
+## 🌎 Scientific & GIS Tools
 
-* **[Dashboard de Población Global](https://github.com/val-solis16/PowerBI-Dashboard-Poblacion)** 
-    * Visualización global de población, esperanza de vida y mortalidad infantil con Power BI.
-* **[Análisis de Ventas de Café](https://github.com/val-solis16/analisis-ventas-cafe)** 
-    * Predicción del monto de ventas de un producto (café), por medio de un modelo lineal.
-* **[Práctica de SQL: Base de Datos DVDRental](https://github.com/val-solis16/dvd-rental-sql)** 
-    * Proyecto práctico enfocado en sentencias SQL con PostgreSQL.
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
 
----
+## ☁️ Development & Cloud
+![AWS Cloud](https://img.shields.io/badge/AWS%20Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 Mis Estadísticas de GitHub
+## 🔐 Currently Learning
 
-[![Valeria Solis GitHub Stats](https://github-readme-stats.vercel.app/api?username=val-solis16&show_icons=true&theme=dark&hide_border=true)](https://github.com/val-solis16)
+Cybersecurity Fundamentals
+Network Security
+Risk Management
+Vulnerability Assessment
 
----
+### 🚀 Featured Projects
 
-### 📬 Conéctate Conmigo
+## DNA Sequence Analysis with Biopython
 
-* **LinkedIn:** [www.linkedin.com/in/valeria-solis-monge-411514325]
-* **Correo Electrónico:** valsolis1601@gmail.com
+Extraction and analysis of biological sequence features including GC content and sequence composition.
+
+## COI DNA Barcoding and Sequence Similarity Analysis
+
+Retrieval of DNA sequences from NCBI, pairwise similarity analysis, heatmap visualization, and hierarchical clustering.
+
+## Global Population Dashboard
+
+Interactive Power BI dashboard exploring population, life expectancy, and infant mortality trends.
+
+## Coffee Sales Prediction
+
+Machine Learning project using linear regression to predict product sales.
+
+## SQL DVDRental Database Analysis
+
+Practical SQL project focused on querying and analyzing relational databases using PostgreSQL.
+
+### 📫 Connect with Me
+LinkedIn: www.linkedin.com/in/valeria-solis-monge
+Email: valsolis1601@gmail.com
 
 ---
