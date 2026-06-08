@@ -40,9 +40,13 @@ Currently expanding my skills through personal projects, continuous learning, an
 ## 🔐 Currently Learning
 
 Cybersecurity Fundamentals
+
 Network Security
+
 Risk Management
+
 Vulnerability Assessment
+
 
 ### 🚀 Featured Projects
 
