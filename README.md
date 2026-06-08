@@ -50,9 +50,6 @@ Vulnerability Assessment
 
 ### 🚀 Featured Projects
 
-## DNA Sequence Analysis with Biopython
-
-Extraction and analysis of biological sequence features including GC content and sequence composition.
 
 ## COI DNA Barcoding and Sequence Similarity Analysis
 
